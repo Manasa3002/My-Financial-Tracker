@@ -4,14 +4,6 @@
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Authentication](#authentication)
-- [Dark and Light Mode](#dark-and-light-mode)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 This is a MERN (MongoDB, Express, React, Node.js) Stack web application designed to help you track your personal finances. You can add expenses and income, manage your money, and gain insights from the data. It features JWT authentication for user management and integrates with Google and Facebook for authentication through Firebase. Additionally, it offers dark and light mode options for a customized user experience.
